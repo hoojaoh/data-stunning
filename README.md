@@ -20,7 +20,7 @@ git clone https://github.com/grantcarthew/data-stunning
 
 This will create a directory called `data-stunning` on your computer.
 
-Once you have a copy of this repository, use it anyway you want. I point my screen saver or wallpaper configuration at the desired directory using a `slideshow` mode.
+Once you have a copy of this repository, use it anyway you want. I point my screensaver or wallpaper configuration at the desired directory using a `slideshow` mode.
 
 ## Contribute
 
@@ -37,3 +37,5 @@ If you believe you have the right image to enhance this repository, follow these
 1. Add your image following the naming standard `Country-Name-of-Image.jpg`.
 1. Edit the directory `README.csv` file adding the image details.
 1. Send a pull request.
+
+_Note: If the source URL has one or more commas in it you will need to replace them with `%2C` when pasting into the `README.csv` file._
