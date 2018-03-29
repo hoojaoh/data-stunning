@@ -12,17 +12,25 @@ If you do not have a copy of [git](https://git-scm.com/), [download it and insta
 
 Type the following command into a command prompt:
 
-__WARNING: This is a large repository. Expect it to take a while to clone.__
-
 ```bash
 
 git clone https://github.com/grantcarthew/data-stunning
 
 ```
 
+__WARNING: This is a large repository. Expect it to take a while to clone.__
+
 This will create a directory called `data-stunning` on your computer.
 
 Once you have a copy of this repository, use it anyway you want. I point my screensaver or wallpaper configuration at the desired directory using a `slideshow` mode.
+
+## Image Sources
+
+A majority of the images come from [Wikipedia Featured pictures](https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures). Although a large amount of the featured images on Wikipedia are stunning, not all of them are.
+
+Other image sources will be added as time goes by. The biggest restriction on adding images is the requirement on an open license. I see a lot of amazing pictures on [reddit](https://www.reddit.com/r/Pictures/) however they are not licensed or are small sizes.
+
+Please open an [issue](https://github.com/grantcarthew/data-stunning/issues) if you know of another source of stunning images that have an open license.
 
 ## Contribute
 
