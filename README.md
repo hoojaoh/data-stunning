@@ -12,6 +12,8 @@ If you do not have a copy of [git](https://git-scm.com/), [download it and insta
 
 Type the following command into a command prompt:
 
+__WARNING: This is a large repository. Expect it to take a while to clone.__
+
 ```bash
 
 git clone https://github.com/grantcarthew/data-stunning
