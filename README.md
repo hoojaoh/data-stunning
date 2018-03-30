@@ -22,7 +22,7 @@ __WARNING: This is a large repository. Expect it to take a while to clone.__
 
 This will create a directory called `data-stunning` on your computer.
 
-Once you have a copy of this repository, use it anyway you want. I point my screensaver or wallpaper configuration at the desired directory using a `slideshow` mode.
+Once you have a copy of this repository, use it anyway you want. I point my screensaver or wallpaper configuration at the images directory using a `slideshow` mode.
 
 ## Image Sources
 
