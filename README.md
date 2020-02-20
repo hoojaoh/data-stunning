@@ -1,6 +1,6 @@
 # Stunning
 
-Stunningly beautiful photos and images from around the wed.
+Stunningly beautiful photos and images from around the web.
 
 ## Description
 
