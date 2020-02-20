@@ -26,7 +26,10 @@ Once you have a copy of this repository, use it anyway you want. I point my scre
 
 ## Image Sources
 
-A majority of the images come from [Wikipedia Featured pictures](https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures). Although a large amount of the featured images on Wikipedia are stunning, not all of them are.
+* [Wikipedia Featured pictures](https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures)
+* [Wiki Loves Earth](http://wikilovesearth.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Wiki_Loves_Earth))
+  * [2019 Winners](https://wikimediafoundation.org/news/2019/12/02/imagination-becomes-reality-in-the-winners-of-the-2019-wiki-loves-earth-photo-contest/)
+
 
 Other image sources will be added as time goes by. The biggest restriction on adding images is the requirement on an open license. I see a lot of amazing pictures on [reddit](https://www.reddit.com/r/Pictures/) however they are not licensed or are small sizes.
 
